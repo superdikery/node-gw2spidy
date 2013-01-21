@@ -41,6 +41,34 @@
       "Darksteel Legging Panel": 13145,
       "Darksteel Pauldron Casing": 13136,
       "Darksteel Pauldron Lining": 13146
+    },
+    "Mithril": {
+      "Mithril Boot Casing": 13147,
+      "Mithril Boot Lining": 13149,
+      "Mithril Chestplate Padding": 13150,
+      "Mithril Chestplate Panel": 13151,
+      "Mithril Gaunlet Plates": 13153, 
+      "Mithril Gauntlet Lining": 13152,
+      "Mithril Helmet Casing": 13155,
+      "Mithril Helmet Lining": 13154,
+      "Mithril Legging Lining": 13156,
+      "Mithril Legging Panel": 13157,
+      "Mithril Pauldron Casing": 13148,
+      "Mithril Pauldron Lining": 13158
+    },
+    "Orichalcum": {
+      "Orichalcum Boot Casing": 13159,
+      "Orichalcum Boot Lining": 13161,
+      "Orichalcum Chestplate Padding": 13162,
+      "Orichalcum Chestplate Panel": 13163,
+      "Orichalcum Gaunlet Plates": 13165, 
+      "Orichalcum Gauntlet Lining": 13164,
+      "Orichalcum Helmet Casing": 13167,
+      "Orichalcum Helmet Lining": 13166,
+      "Orichalcum Legging Lining": 13168,
+      "Orichalcum Legging Panel": 13169,
+      "Orichalcum Pauldron Casing": 13160,
+      "Orichalcum Pauldron Lining": 13170
     }
   },
   "Jewelry": {
@@ -64,6 +92,88 @@
       "Mithril Filigree": 12833,
       "Mithril Hook": 12808,
       "Mithril Setting": 12814
+    }
+  },
+  "Weaponsmith": {
+    "Iron": {
+      "Iron Axe Blade": 12850,
+      "Iron Dagger Blade": 12856,
+      "Iron Dagger Hilt": 12880,
+      "Iron Greatsword Blade": 12838, 
+      "Iron Greatsword Hilt": 12886,
+      "Iron Hammer Head ": 12862,
+      "Iron Mace Head": 12874,
+      "Iron Shield Backing": 12904,
+      "Iron Shield Boss": 12910,
+      "Iron Spear Head": 12996,
+      "Iron Sword Blade": 12868,
+      "Iron Sword Hilt": 12844,
+      "Small Soft Haft": 12890,
+      "Large Soft Haft": 12900
+    },
+    "Steel": {
+      "Steel Axe Blade": 12853,
+      "Steel Dagger Blade": 12859,
+      "Steel Dagger Hilt": 12883,
+      "Steel Greatsword Blade": 12841, 
+      "Steel Greatsword Hilt": 12889,
+      "Steel Hammer Head ": 12865,
+      "Steel Mace Head": 12877,
+      "Steel Shield Backing": 12907,
+      "Steel Shield Boss": 12913,
+      "Steel Spear Head": 12999,
+      "Steel Sword Blade": 12871,
+      "Steel Sword Hilt": 12847,
+      "Small Seasoned Haft": 12893,
+      "Large Seasoned Haft": 12901
+    },
+    "Darksteel": {
+      "Darksteel Axe Blade": 12849,
+      "Darksteel Dagger Blade": 12855,
+      "Darksteel Dagger Hilt": 12879,
+      "Darksteel Greatsword Blade": 12837, 
+      "Darksteel Greatsword Hilt": 12885,
+      "Darksteel Hammer Head ": 12861,
+      "Darksteel Mace Head": 12873,
+      "Darksteel Shield Backing": 12903,
+      "Darksteel Shield Boss": 12909,
+      "Darksteel Spear Head": 12995,
+      "Darksteel Sword Blade": 12867,
+      "Darksteel Sword Hilt": 12843,
+      "Small Hard Haft": 12895,
+      "Large Hard Haft": 12898
+    },
+    "Mithril": {
+      "Mithril Axe Blade": 12851,
+      "Mithril Dagger Blade": 12857,
+      "Mithril Dagger Hilt": 12881,
+      "Mithril Greatsword Blade": 12839, 
+      "Mithril Greatsword Hilt": 12887,
+      "Mithril Hammer Head ": 12863,
+      "Mithril Mace Head": 12875,
+      "Mithril Shield Backing": 12905,
+      "Mithril Shield Boss": 12911,
+      "Mithril Spear Head": 12997,
+      "Mithril Sword Blade": 12869,
+      "Mithril Sword Hilt": 12845,
+      "Small Elder Haft": 12894,
+      "Large Elder Haft": 12896
+    },
+    "Orichalcum": {
+      "Orichalcum Axe Blade": 12852,
+      "Orichalcum Dagger Blade": 12858,
+      "Orichalcum Dagger Hilt": 12882,
+      "Orichalcum Greatsword Blade": 12840, 
+      "Orichalcum Greatsword Hilt": 12888,
+      "Orichalcum Hammer Head ": 12864,
+      "Orichalcum Mace Head": 12876,
+      "Orichalcum Shield Backing": 12906,
+      "Orichalcum Shield Boss": 12912,
+      "Orichalcum Spear Head": 12998,
+      "Orichalcum Sword Blade": 12870,
+      "Orichalcum Sword Hilt": 12846,
+      "Small Ancient Haft": 12892,
+      "Large Ancient Haft": 12899
     }
   }
 }
