@@ -1,0 +1,70 @@
+{
+  "Armorsmithing": {
+    "Iron Scale": {
+      "Iron Scale Armguard Lining": 13117,
+      "Iron Scale Armguard Panel": 13112,
+      "Iron Scale Boot Lining": 13111,
+      "Iron Scale Boot Panel": 13114,
+      "Iron Scale Chest Padding": 13115, 
+      "Iron Scale Chest Panel": 13116,
+      "Iron Scale Legging Lining": 13120,
+      "Iron Scale Legging Panel": 13121,
+      "Iron Casque Casing": 13119,
+      "Iron Casque Lining": 13118,
+      "Iron Pauldron Casing": 13113,
+      "Iron Pauldron Lining": 13122
+    },
+    "Steel Splint": {
+      "Steel Splint Boot Casing": 13123,
+      "Steel Splint Boot Lining": 13125,
+      "Steel Splint Chestplate Padding": 13126,
+      "Steel Splint Chestplate Panel": 13127,
+      "Steel Splint Gauntlet Lining": 13128, 
+      "Steel Splint Gauntlet Plates": 13129,
+      "Steel Splint Helmet Casing": 13131,
+      "Steel Splint Helmet Lining": 13130,
+      "Steel Splint Legging Lining": 13132,
+      "Steel Splint Legging Panel": 13133,
+      "Steel Splint Pauldron Casing": 13124,
+      "Steel Splint Pauldron Lining": 13134
+    },
+    "Darksteel": {
+      "Darksteel Boot Casing": 13135,
+      "Darksteel Boot Lining": 13137,
+      "Darksteel Chestplate Padding": 13138,
+      "Darksteel Chestplate Panel": 13139,
+      "Darksteel Gaunlet Plates": 13141, 
+      "Darksteel Gauntlet Lining": 13140,
+      "Darksteel Helmet Casing": 13143,
+      "Darksteel Helmet Lining": 13142,
+      "Darksteel Legging Lining": 13144,
+      "Darksteel Legging Panel": 13145,
+      "Darksteel Pauldron Casing": 13136,
+      "Darksteel Pauldron Lining": 13146
+    }
+  },
+  "Jewelry": {
+    "Gold": {
+      "Gold Band": 12825,
+      "Gold Chain": 12819,
+      "Gold Filigree": 12832,
+      "Gold Hook": 12807,
+      "Gold Setting": 12813
+    },
+    "Platinum": {
+      "Platinum Band": 12828,
+      "Platinum Chain": 12822,
+      "Platinum Filigree": 12835,
+      "Platinum Hook": 12810,
+      "Platinum Setting": 12816
+    },
+    "Mithril": {
+      "Mithril Band": 12826,
+      "Mithril Chain": 12820,
+      "Mithril Filigree": 12833,
+      "Mithril Hook": 12808,
+      "Mithril Setting": 12814
+    }
+  }
+}
+
