@@ -27,11 +27,29 @@ function craftingProfitReport(itemIds, callback) {
   }
 }
 
-// Takes as input an array of item ids, and reports the most profitable
-// items to flip at current market proices from within that list
-function flipProfitReport(itemIds, callback) {
-
+function priceReport(itemIds, callback) {
+  var itemResults = {};
+  var totalItems = itemIds.length;
+  var processedItems = 0;
+  for(var i = 0; i < totalItems; ++i) {
+    spidy.itemData(itemIds[i], function(result) {
+      if(result === null) {
+        console.log("Item not found!");
+      } else {
+        var jResult = JSON.parse(result).result;
+        var currItem = {};
+        itemResults[jResult.name] = currItem;
+        currItem.max_offer = jResult.max_offer_unit_price;
+        currItem.min_sale = jResult.min_sale_unit_price;
+        currItem.flip_margin = (currItem.max_offer - currItem.min_sale) / currItem.min_sale;
+      }
+      processedItems++;
+      if(processedItems >= totalItems) {
+        callback(itemResults);
+      }
+    });
+  }
 }
 
 exports.craftingProfitReport = craftingProfitReport;
-exports.flipProfitReport = flipProfitReport;
+exports.priceReport = priceReport;;
